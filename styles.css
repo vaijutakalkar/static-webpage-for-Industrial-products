@@ -1,0 +1,106 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0; 
+    background-color:white;
+
+}
+header{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+}
+ 
+ .top-bar{
+    display: flex;
+    
+}
+.contact-info{
+    margin-left: 600px;
+}
+ 
+.second{
+    background-image:url(background1.jfif);
+    background-size:cover;
+    padding: 55px ;
+    display: flex;
+    color: white;
+}
+.second-content{
+    text-align: center;
+    margin-left: 60px;
+
+}
+    
+.contact-form{
+    background-color: rgb(41, 41, 243);
+    padding: 10px;
+    margin-left: 600px; 
+    margin-right: 50px; 
+    line-height: 0.9cm;
+    
+}
+
+.third{
+    display: flex;
+    padding: 50px;
+}
+.third-content{
+    max-width: 40%;
+    text-align: center;
+
+}
+
+.fourth{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+    
+}
+.fourth h2{
+    padding-top:15px;
+}
+
+.fourth p{
+    margin-left: 300px;
+}
+
+.fifth{ 
+    
+    display: flex;
+    padding: 40px 20px; 
+}
+ .fifth-content{
+       max-width: 40%;
+       margin: 30px;
+       padding:10px;
+       justify-content:center;
+     
+} 
+
+.fifth-content img{
+    width: 100%;
+    height: auto; 
+    
+   
+} 
+.fifth-content h3,p{
+    max-width: 700px;
+    
+    margin-top: 10px;
+
+}
+
+
+footer{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    
+}
+
+footer p{
+    padding-left: 400px;
+}
